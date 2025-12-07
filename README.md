@@ -6,4 +6,4 @@
   <a href="https://youtube.com/@JaxsonSprinkles">YouTube</a> 
 </p>
 ⚙️ I use daily: <code>.jsx, .tsx, .js, .py</code> <br/>
-💅 Recently Designed: (RepoAI)[https://getrepoai.vercel.app] - a simple way to summarize repos
+💅 Recently Designed: [RepoAI](https://getrepoai.vercel.app) - a simple way to summarize repos
